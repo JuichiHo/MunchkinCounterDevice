@@ -25,3 +25,4 @@ Compact, ergonomic, handheld device with a good and sharp screen which provides 
 - a few buttons.
 
 ----------
+v. 1-1-5
